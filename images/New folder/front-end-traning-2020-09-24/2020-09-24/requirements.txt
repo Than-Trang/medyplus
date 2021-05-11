@@ -1,0 +1,10 @@
+Yêu cầu:
+
+1. Tạo responsive grid layout cho phần có ba khối màu xanh bằng 5 kỹ thuật khác nhau:
+    - Float: Học luôn cách clear float.
+    - Table
+    - Flex
+    - Inline Block
+    - Grid: Cái này mới, chưa hỗ trợ full, nhưng thử nghiệm cũng không sao.
+
+2. Tạo responsive layout cho 3 icon boxes sao cho khi text thay đổi bất kể dài hay ngắn thì 3 box luôn cao bằng nhau. Về mobile 1 cột thì ko cần. Không dùng javascript.
